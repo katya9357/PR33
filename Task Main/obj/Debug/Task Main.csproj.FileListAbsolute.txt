@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\Data\Turisty.mdb
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\Task Main.exe.config
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\Task Main.exe
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\Task Main.pdb
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\travelAdency.dll
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\bin\Debug\travelAdency.pdb
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\obj\Debug\Task Main.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\obj\Debug\Task Main.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\obj\Debug\Task Main.csproj.Up2Date
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\obj\Debug\Task Main.exe
+C:\Users\user\Desktop\C#\Day 33\Day 33\Task Main\obj\Debug\Task Main.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\Data\Turisty.mdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\Task Main.exe.config
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\Task Main.exe
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\Task Main.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\travelAdency.dll
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\bin\Debug\travelAdency.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\obj\Debug\Task Main.csproj.AssemblyReference.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\obj\Debug\Task Main.csproj.CoreCompileInputs.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\obj\Debug\Task Main.csproj.Up2Date
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\obj\Debug\Task Main.exe
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\Task Main\obj\Debug\Task Main.pdb

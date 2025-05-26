@@ -1,0 +1,7 @@
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\Data\Turisty.mdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\travelAdency.dll
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\travelAdency.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\TuristyDAL.csproj.AssemblyReference.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\TuristyDAL.csproj.CoreCompileInputs.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.dll
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.pdb

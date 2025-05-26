@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\bin\Debug\Data\Turisty.mdb
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\bin\Debug\travelAdency.dll
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\bin\Debug\travelAdency.pdb
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\obj\Debug\travelAdency.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\obj\Debug\travelAdency.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\obj\Debug\travelAdency.dll
+C:\Users\user\Desktop\C#\Day 33\Day 33\travelAdency\obj\Debug\travelAdency.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\Data\Turisty.mdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\travelAdency.dll
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\bin\Debug\travelAdency.pdb
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.csproj.AssemblyReference.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.csproj.CoreCompileInputs.cache
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.dll
+D:\учеба\яПРАКТИКА\33_33\33\Day 33\travelAdency\obj\Debug\travelAdency.pdb
